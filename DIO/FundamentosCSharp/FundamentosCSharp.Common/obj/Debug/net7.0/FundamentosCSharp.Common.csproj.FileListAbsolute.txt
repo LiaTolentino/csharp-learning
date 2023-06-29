@@ -1,0 +1,12 @@
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net7.0\FundamentosCSharp.Common.deps.json
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net7.0\FundamentosCSharp.Common.dll
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net7.0\FundamentosCSharp.Common.pdb
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.csproj.AssemblyReference.cache
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.AssemblyInfoInputs.cache
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.AssemblyInfo.cs
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.dll
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\refint\FundamentosCSharp.Common.dll
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\FundamentosCSharp.Common.pdb
+C:\Workspace\Dio\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net7.0\ref\FundamentosCSharp.Common.dll

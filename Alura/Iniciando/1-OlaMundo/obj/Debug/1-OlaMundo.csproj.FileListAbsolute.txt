@@ -1,0 +1,8 @@
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\bin\Debug\1-OlaMundo.exe.config
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\bin\Debug\1-OlaMundo.exe
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\bin\Debug\1-OlaMundo.pdb
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\obj\Debug\1-OlaMundo.csproj.AssemblyReference.cache
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\obj\Debug\1-OlaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\obj\Debug\1-OlaMundo.csproj.CoreCompileInputs.cache
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\obj\Debug\1-OlaMundo.exe
+C:\Workspace\Linguagens\csharp-learning\Alura\1-OlaMundo\obj\Debug\1-OlaMundo.pdb
